@@ -20,15 +20,15 @@ problem sets：Ch3: 3.7.3, 3.7.5, 3.7.11
 
 Upper graph fit better because "s is small compare to Km" so
 
-<img src="https://render.githubusercontent.com/render/math?math=K_{m}+s\approxK_{m}">
+<img src="https://latex.codecogs.com/svg.image?K_{m}&plus;s&space;\approx&space;K_{m}">
 
-Let $K_{m}+s \approx K_{m}$
+$K_{m}+s \approx K_{m}$
 
 and $v_i$ can be reduced as
 
-$v_{i} = \frac{V^{i}_{max} *s_{i}}{K_{mi}+s_{i}} => 
+$$v_{i} = \frac{V^{i}_{max} *s_{i}}{K_{mi}+s_{i}} => 
 
-\frac{V^{i}_{max}}{K_{mi}}*s_{i}$
+\frac{V^{i}_{max}}{K_{mi}}*s_{i}$$
 
 -> $\frac{V^{i}_{max}}{K_{mi}}*s_{i}$ is "first order kinetics"
 
