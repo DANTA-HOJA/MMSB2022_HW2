@@ -20,13 +20,13 @@ problem sets：Ch3: 3.7.3, 3.7.5, 3.7.11
 
 Upper graph fit better because "s is small compare to Km" so
 
-$$K_{m}+s \approx K_{m}$$
+$K_{m}+s \approx K_{m}$
 
 and $v_i$ can be reduced as
 
-$$v_{i} = \frac{V^{i}_{max} *s_{i}}{K_{mi}+s_{i}} => 
+$v_{i} = \frac{V^{i}_{max} *s_{i}}{K_{mi}+s_{i}} => 
 
-\frac{V^{i}_{max}}{K_{mi}}*s_{i}$$
+\frac{V^{i}_{max}}{K_{mi}}*s_{i}$
 
 -> $\frac{V^{i}_{max}}{K_{mi}}*s_{i}$ is "first order kinetics"
 
