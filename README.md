@@ -20,7 +20,7 @@ problem sets：Ch3: 3.7.3, 3.7.5, 3.7.11
 
 Upper graph fit better because "s is small compare to Km" so <img src="https://latex.codecogs.com/svg.image?K_{m}&plus;s&space;\approx&space;K_{m}">
 
-and <img src="https://latex.codecogs.com/svg.image?v_i"> can be reduced as <img src="https://latex.codecogs.com/svg.image?v_{i}&space;=&space;\frac{V^{i}_{max}&space;*s_{i}}{K_{mi}&plus;s_{i}}=>\frac{V^{i}_{max}}{K_{mi}}*s_{i}">
+and <img src="https://latex.codecogs.com/svg.image?v_i"> can be reduced by <img src="https://latex.codecogs.com/svg.image?v_{i}&space;=&space;\frac{V^{i}_{max}&space;*s_{i}}{K_{mi}&plus;s_{i}}=>\frac{V^{i}_{max}}{K_{mi}}*s_{i}">
 
 <img src="https://latex.codecogs.com/svg.image?\frac{V^{i}_{max}}{K_{mi}}*s_{i}"> is "first order kinetics"
 
