@@ -22,9 +22,7 @@ Upper graph fit better because "s is small compare to Km" so
 
 <img src="https://latex.codecogs.com/svg.image?K_{m}&plus;s&space;\approx&space;K_{m}">
 
-$K_{m}+s \approx K_{m}$
-
-and $v_i$ can be reduced as
+and <img src="https://latex.codecogs.com/svg.image?v_i"> can be reduced as
 
 $$v_{i} = \frac{V^{i}_{max} *s_{i}}{K_{mi}+s_{i}} => 
 
