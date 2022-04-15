@@ -24,11 +24,9 @@ Upper graph fit better because "s is small compare to Km" so
 
 and <img src="https://latex.codecogs.com/svg.image?v_i"> can be reduced as
 
-$$v_{i} = \frac{V^{i}_{max} *s_{i}}{K_{mi}+s_{i}} => 
+<img src="https://latex.codecogs.com/svg.image?v_{i}&space;=&space;\frac{V^{i}_{max}&space;*s_{i}}{K_{mi}&plus;s_{i}}=>\frac{V^{i}_{max}}{K_{mi}}*s_{i}">
 
-\frac{V^{i}_{max}}{K_{mi}}*s_{i}$$
-
--> $\frac{V^{i}_{max}}{K_{mi}}*s_{i}$ is "first order kinetics"
+<img src="https://latex.codecogs.com/svg.image?\frac{V^{i}_{max}}{K_{mi}}*s_{i}"> is "first order kinetics"
 
 !["full vs reduced -> S is small compare to Km"](/png/Problem%203.7.5%20(c)(1).png)
 
